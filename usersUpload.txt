@@ -1,0 +1,11 @@
+USER ID,ALLOW CONTROL OF DEVICE FROM CTI,ENABLE MOBILITY,ACCESS CONTROL GROUP 1,ACCESS CONTROL GROUP 2,HOME CLUSTER,ENABLE USER FOR UNIFIED CM IM AND PRESENCE
+aford,t,t,Standard CTI Enabled,Standard CCM End Users,t,t
+dpurcell,t,t,Standard CTI Enabled,Standard CCM End Users,t,t
+dpatterson,t,t,Standard CTI Enabled,Standard CCM End Users,t,t
+mmeehan,t,t,Standard CTI Enabled,Standard CCM End Users,t,t
+rsmith,t,t,Standard CTI Enabled,Standard CCM End Users,t,t
+jsimpson,t,t,Standard CTI Enabled,Standard CCM End Users,t,t
+cjackson,t,t,Standard CTI Enabled,Standard CCM End Users,t,t
+agarcia,t,t,Standard CTI Enabled,Standard CCM End Users,t,t
+mrobison,t,t,Standard CTI Enabled,Standard CCM End Users,t,t
+jmetzinger,t,t,Standard CTI Enabled,Standard CCM End Users,t

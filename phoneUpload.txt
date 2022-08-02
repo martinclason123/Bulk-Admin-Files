@@ -1,0 +1,10 @@
+Device Name,Owner User ID,Description,Directory Number 1,Directory Number 2,Directory Number 3,Display 1,ASCII Display 1
+CSFaford,aford,Anthony Ford Jabber,4296,,,Anthony Ford,Anthony Ford 4296
+CSFdpurcell,dpurcell,Danny Purcell Jabber,4297,,,Danny Purcell,Danny Purcell 4297
+CSFdpatterson,dpatterson,David Patterson Jabber,4298,,,David Patterson,David Patterson 4298
+CSFmmeehan,mmeehan,Max Meehan Jabber,4299,,,Max Meehan,Max Meehan 4299
+CSFrsmith,rsmith,Robert Smith Jabber,4300,,,Robert Smith,Robert Smith 4300
+CSFjsimpson,jsimpson,John Simpson Jabber,4301,,,John Simpson,John Simpson 4301
+CSFcjackson,cjackson,Charles Jackson Jabber,4302,4019,,Charles Jackson,Charles Jackson 4302
+CSFmrobison,mrobison,Mark Robison Jabber,4304,,,Mark Robison,Mark Robison 4304
+CSFjmetzinger,jmetzinger,Joseph Metzinger Jabber,4302,4019,,Joseph Metzinger,Joseph Metzinger 4302
